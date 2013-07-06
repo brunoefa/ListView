@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_parte2">Parte2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="parte_1">Parte 1</string>
+    <string name="parte_2">Parte 2</string>
+    <string name="title_activity_parte3">Parte3</string>
+    <string name="marcados">Marcados</string>
+    <string name="desmarcados">Desmarcados</string>
+    <string name="parte_3">Parte 3</string>
+    <string name="title_activity_parte4">Parte4</string>
+    <string name="parte_4">Parte 4</string>
+    <string name="procurar">Procurar</string>
+    <string name="title_activity_parte5">Parte5</string>
+    <string name="parte_5">Parte 5</string>
+
+</resources>
